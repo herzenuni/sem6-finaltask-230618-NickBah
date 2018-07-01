@@ -1,0 +1,6 @@
+[
+  "tests.py::test_our_func[First test]",
+  "tests.py::test_our_func[Second test]",
+  "tests.py::test_our_func[Third test]",
+  "tests.py::test_our_func[Fourth test]"
+]
